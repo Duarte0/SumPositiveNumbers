@@ -3,3 +3,5 @@ O projeto em questão trata de somar e retornar a soma de números inteiros e po
 Feito no Visual Studio Code, foi utilizada a extensão 'Code Runner' para facilitar o start do projeto com a config: 'Code-runner: Run In Terminal' ativa, essa config permite que o projeto compile e rode no terminal ao invés do output, foi utilizada essa config para facilitar a entrada de dados do usuário.
 
 A função 'SumPositiveNumbers' não permite números negativos, strings e caso coloque algum número racional, irá arredondar para baixo.
+
+Necessária a instalação do Node.js
